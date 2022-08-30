@@ -10,4 +10,5 @@
             Application.Exit()
         End If
     End Sub
+
 End Class

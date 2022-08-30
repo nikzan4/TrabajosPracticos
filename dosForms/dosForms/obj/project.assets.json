@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC1\\source\\repos\\dosForms\\dosForms\\dosForms.vbproj",
+      "projectUniqueName": "C:\\Users\\PC1\\Desktop\\TrabajosPracticos-main\\dosForms\\dosForms\\dosForms.vbproj",
       "projectName": "dosForms",
-      "projectPath": "C:\\Users\\PC1\\source\\repos\\dosForms\\dosForms\\dosForms.vbproj",
+      "projectPath": "C:\\Users\\PC1\\Desktop\\TrabajosPracticos-main\\dosForms\\dosForms\\dosForms.vbproj",
       "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC1\\source\\repos\\dosForms\\dosForms\\obj\\",
+      "outputPath": "C:\\Users\\PC1\\Desktop\\TrabajosPracticos-main\\dosForms\\dosForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
